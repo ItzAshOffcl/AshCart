@@ -49,7 +49,7 @@ Angular requires Node.js. You can install it from the [Node.js official website]
 ### Installation 
 1. Clone this git repo using the below command:
    ```git
-   git clone https://github.com/itsashoffcl/ashcart.git
+   git clone https://github.com/itsashoffcl/AshCart.git
    ```
 2. Navigate to your project directory:
    ```sh
